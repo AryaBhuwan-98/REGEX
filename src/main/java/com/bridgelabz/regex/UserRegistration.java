@@ -18,6 +18,5 @@ public class UserRegistration {
         }
         scan.close();
 	}
-
 }
 
